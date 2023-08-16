@@ -38,7 +38,7 @@ Alternatively, you can use temcrypt directly in the browser by including the fol
 ```
 or minified:
 ```html
-<script src="dist/temcrypt.min.js"></script>
+<script src="temcrypt.min.js"></script>
 ```
 You can also call the library on your website or web application from a **CDN**:
 ```html
