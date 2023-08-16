@@ -31,6 +31,8 @@ My name is [Jose Pino](https://x.com/jofpin). I will always be creating things, 
 
 temcrypt is an innovative encryption mechanism designed to protect highly sensitive data. Its unique approach employs multiple layers of encryption, scalability over time, and resistance to common brute force attacks, providing effective protection in an era where data security is paramount.
 
+![temcrypt](press/temcrypt-grid.png)
+
 One key feature of temcrypt is the integration of standard encryption algorithms, such as **[AES-256](https://wikipedia.org/wiki/Advanced_Encryption_Standard)** with symmetric key and the secure key generation algorithm **[SHA-256](https://wikipedia.org/wiki/SHA-2)**. These are strategically implemented within temcrypt to provide the highest level of security to date.
 
 By implementing temcrypt capabilities, data is encrypted with dynamic complexity that evolves over time, ensuring greater security and resistance to brute force attack advances. Plus, its multi-layered approach adds an extra protection advantage for your most critical and sensitive data.
