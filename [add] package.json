@@ -1,0 +1,30 @@
+{
+  "name": "temcrypt",
+  "version": "1.0.0",
+  "description": "Advanced multi-layer evolutionary encryption, scalable complexity over time, and resistance to common brute force attacks.",
+  "main": "temcrypt.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jofpin/temcrypt.git"
+  },
+  "keywords": [
+    "temcrypt",
+    "encryption",
+    "mechanism",
+    "security",
+    "privacy",
+    "javascript"
+  ],
+  "author": "Jose Pino <https://x.com/jofpin>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jofpin/temcrypt/issues"
+  },
+  "homepage": "https://github.com/jofpin/temcrypt",
+  "files": [
+    "temcrypt.js"
+  ],
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
