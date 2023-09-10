@@ -274,7 +274,7 @@ The following table presents the important error codes and their corresponding e
 
 Check out the [examples](examples) directory for more detailed usage examples.
 
-> #### ⚠️ **WARNING**
+> #### ⚠️ **RECOMMENDATION**
 > The encryption size of a string or file should be less than **16 KB (kilobytes)**. If
 > it's larger, you must have enough computational power to decrypt it.
 > Otherwise, your personal computer will exceed the time required to
